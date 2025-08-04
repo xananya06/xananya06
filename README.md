@@ -1,7 +1,7 @@
 ## Hi, I'm Ananya ✨
 
 - 🔭 I'm a Master's student in Artificial Intelligence at Boston University<br/>
-- 🌱 I’m currently working on projects related to Computer Vision and Generative AI<br/>
+- 🌱 I’m currently working on projects related to Generative and Agentic Systems
 - 💬 My Pronouns are she/her 
 
 ## 🌐 Socials:
